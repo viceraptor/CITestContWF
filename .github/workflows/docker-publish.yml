@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: viceraptor/CITestContWF/.github/workflows/python-app.yml@main
+    uses: viceraptor/CITestContain/.github/workflows/python-app.yml@main
     permissions:
       contents: read
 
